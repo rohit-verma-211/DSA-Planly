@@ -1,0 +1,7082 @@
+[
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 1,
+  "title": "Linear Search",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 2,
+  "title": "Largest Element",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 3,
+  "title": "Second Largest Element",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 4,
+  "title": "Maximum Consecutive Ones",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 5,
+  "title": "Left Rotate Array by One",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 6,
+  "title": "Left Rotate Array by K Places",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 7,
+  "title": "Move Zeros to End",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 8,
+  "title": "Remove duplicates from sorted array",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 9,
+  "title": "Find missing number",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 1,
+  "position": 10,
+  "title": "Union of two sorted arrays",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 1,
+  "title": "Intersection of two sorted arrays",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 2,
+  "title": "Majority Element-l",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 3,
+  "title": "Leaders in an Array",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 4,
+  "title": "Rearrange array elements by sign",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 5,
+  "title": "Print the matrix in spiral manner",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 6,
+  "title": "Pascal's Triangle I",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 7,
+  "title": "Pascal's Triangle II",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 8,
+  "title": "Pascal's Triangle III",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 9,
+  "title": "Rotate matrix by 90 degrees",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 10,
+  "title": "Two Sum",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 11,
+  "title": "3 Sum",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 12,
+  "title": "4 Sum",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 13,
+  "title": "Sort an array of O's 1's and 2's",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 14,
+  "title": "Kadane's Algorithm",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 15,
+  "title": "Next Permutation",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 2,
+  "position": 16,
+  "title": "Majority Element-II",
+  "topic": "DSA",
+  "completed": true
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 1,
+  "title": "Find the repeating and missing number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 2,
+  "title": "Count Inversions",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 3,
+  "title": "Reverse Pairs",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 4,
+  "title": "Maximum Product Subarray in an Array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 5,
+  "title": "Merge two sorted arrays without extra space",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 6,
+  "title": "Selection Sort",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 7,
+  "title": "Bubble Sort",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 8,
+  "title": "Insertion Sorting",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 9,
+  "title": "Merge Sorting",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 3,
+  "position": 10,
+  "title": "Quick Sorting",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 1,
+  "title": "Basic Hashing",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 2,
+  "title": "Longest Consecutive Sequence in an Array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 3,
+  "title": "Longest subarray with sum K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 4,
+  "title": "Count subarrays with given sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 5,
+  "title": "Count subarrays with given xor K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 6,
+  "title": "Reverse a String II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 7,
+  "title": "Palindrome Check",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 8,
+  "title": "Largest Odd Number in a String",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 9,
+  "title": "Longest Common Prefix",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 10,
+  "title": "Isomorphic Strings",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 11,
+  "title": "Rotate String",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 12,
+  "title": "Valid Anagram",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 4,
+  "position": 13,
+  "title": "Sort Characters by Frequency",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 1,
+  "title": "Search X in sorted array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 2,
+  "title": "Lower Bound",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 3,
+  "title": "Upper Bound",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 4,
+  "title": "Search insert position",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 5,
+  "title": "Floor and Ceil in Sorted Array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 6,
+  "title": "First and last occurrence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 7,
+  "title": "Search in rotated sorted array-I",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 8,
+  "title": "Search in rotated sorted array-II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 9,
+  "title": "Find minimum in Rotated Sorted Array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 10,
+  "title": "Find out how many times the array is rotated",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 11,
+  "title": "Single element in sorted array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 12,
+  "title": "Find square root of a number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 13,
+  "title": "Find Nth root of a number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 14,
+  "title": "Find the smallest divisor",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 15,
+  "title": "Koko eating bananas",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 16,
+  "title": "Minimum days to make M bouquets",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 5,
+  "position": 17,
+  "title": "Aggressive Cows",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 6,
+  "position": 1,
+  "title": "Java Basics",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 7,
+  "position": 1,
+  "title": "What is OOPS",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 1,
+  "day": 7,
+  "position": 2,
+  "title": "Classes and Objects",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 1,
+  "position": 1,
+  "title": "Book Allocation Problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 1,
+  "position": 2,
+  "title": "Find peak element",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 1,
+  "position": 3,
+  "title": "Median of 2 sorted arrays",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 1,
+  "position": 4,
+  "title": "Kth element of 2 sorted arrays",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 1,
+  "title": "Minimize Max Distance to Gas Station",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 2,
+  "title": "Split array - largest sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 3,
+  "title": "Find row with maximum 1's",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 4,
+  "title": "Search in a 2D Matrix",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 5,
+  "title": "Search in 2D matrix - II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 6,
+  "title": "Find Peak Element - II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 7,
+  "title": "Matrix Median",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 8,
+  "title": "Recursion Theory",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 9,
+  "title": "Recursion Concepts with Parameters",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 10,
+  "title": "Pow(x,n)",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 11,
+  "title": "Generate Parentheses",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 12,
+  "title": "Power Set",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 2,
+  "position": 13,
+  "title": "Check if there exists a subsequence with sum K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 1,
+  "title": "Count all subsequences with sum K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 2,
+  "title": "Combination Sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 3,
+  "title": "Combination Sum II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 4,
+  "title": "Subsets I",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 5,
+  "title": "Subsets II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 6,
+  "title": "Combination Sum III",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 7,
+  "title": "Letter Combinations of a Phone Number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 8,
+  "title": "Palindrome Partitioning",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 9,
+  "title": "Word Search",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 10,
+  "title": "N Queen",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 11,
+  "title": "Rat in a Maze",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 12,
+  "title": "M Coloring Problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 13,
+  "title": "Sudoku Solver",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 14,
+  "title": "Introduction to Singly LinkedList",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 15,
+  "title": "Traversal in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 3,
+  "position": 16,
+  "title": "Deletion in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 1,
+  "title": "Insertion in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 2,
+  "title": "Deletion of the head of LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 3,
+  "title": "Deletion of the tail of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 4,
+  "title": "Deletion of the Kth element of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 5,
+  "title": "Delete the element with value X",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 6,
+  "title": "Insertion at the head of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 7,
+  "title": "Insertion at the tail of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 8,
+  "title": "Insertion at the Kth position of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 9,
+  "title": "Insertion before the value X in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 10,
+  "title": "Introduction to Doubly LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 11,
+  "title": "Deletion in Doubly LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 12,
+  "title": "Insertion in DLL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 13,
+  "title": "Convert Array to Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 14,
+  "title": "Delete Tail of Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 15,
+  "title": "Delete Kth Element of Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 16,
+  "title": "Removing given node in Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 17,
+  "title": "Insert node before head in Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 18,
+  "title": "Insert node before tail in Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 19,
+  "title": "Insert node before (kth node) in Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 20,
+  "title": "Insert before given node in Doubly Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 21,
+  "title": "Add two numbers in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 22,
+  "title": "Segregate odd and even nodes in Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 23,
+  "title": "Sort a Linked List of O's 1's and 2's",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 24,
+  "title": "Remove Nth node from the back of the LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 4,
+  "position": 25,
+  "title": "Reverse a LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 1,
+  "title": "Add one to a number represented by LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 2,
+  "title": "Find Middle of Linked List",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 3,
+  "title": "Delete the middle node in LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 4,
+  "title": "Check if LL is palindrome or not",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 5,
+  "title": "Find the intersection point of Y LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 6,
+  "title": "Detect a loop in LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 7,
+  "title": "Find the starting point in LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 8,
+  "title": "Length of loop in LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 9,
+  "title": "Reverse LL in group of given size K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 10,
+  "title": "Rotate a LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 11,
+  "title": "Merge two Sorted Lists",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 12,
+  "title": "Flattening of LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 5,
+  "position": 13,
+  "title": "Sort LL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 6,
+  "position": 1,
+  "title": "Practice(Classes and Objects)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 2,
+  "day": 7,
+  "position": 1,
+  "title": "Attributes and methods",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 1,
+  "position": 1,
+  "title": "Clone a LL with random and next pointer",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 1,
+  "position": 2,
+  "title": "Delete all occurrences of a key in DLL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 1,
+  "position": 3,
+  "title": "Remove duplicates from sorted DLL",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 1,
+  "title": "Introduction to Bits and Tricks",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 2,
+  "title": "Minimum Bit Flips to Convert Number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 3,
+  "title": "Single Number - 1",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 4,
+  "title": "Single Number - II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 5,
+  "title": "Single Number - III",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 6,
+  "title": "Divide two numbers without multiplication and division",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 7,
+  "title": "Power Set Bit Manipulation",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 8,
+  "title": "XOR of numbers in a given range",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 9,
+  "title": "Theory",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 10,
+  "title": "Maximum Points You Can Obtain from Cards",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 11,
+  "title": "Longest Substring Without Repeating Characters",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 2,
+  "position": 12,
+  "title": "Max Consecutive Ones III",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 1,
+  "title": "Fruit Into Baskets",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 2,
+  "title": "Longest Substring With At Most K Distinct Characters",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 3,
+  "title": "Longest Repeating Character Replacement",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 4,
+  "title": "Minimum Window Substring",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 5,
+  "title": "Number of Substrings Containing All Three Characters",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 6,
+  "title": "Binary Subarrays With Sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 7,
+  "title": "Count number of Nice subarrays",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 8,
+  "title": "Implementation using different DS",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 9,
+  "title": "Implement Stack using Arrays",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 10,
+  "title": "Implement Queue using Arrays",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 11,
+  "title": "Implement Stack using Queue",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 12,
+  "title": "Implement Queue using Stack",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 13,
+  "title": "Implement stack using Linkedlist",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 14,
+  "title": "Implement queue using Linkedlist",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 15,
+  "title": "Balanced Paranthesis",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 3,
+  "position": 16,
+  "title": "Next Greater Element",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 1,
+  "title": "Next Greater Element-2",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 2,
+  "title": "Asteroid Collision",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 3,
+  "title": "Sum of Subarray Minimums",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 4,
+  "title": "Sum of Subarray Ranges",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 5,
+  "title": "Remove K Digits",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 6,
+  "title": "Implement Min Stack",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 7,
+  "title": "Sliding Window Maximum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 8,
+  "title": "Trapping Rainwater",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 9,
+  "title": "Largest rectangle in a histogram",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 10,
+  "title": "Maximum Rectangles",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 11,
+  "title": "Stock span problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 12,
+  "title": "Celebrity Problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 13,
+  "title": "LRU Cache",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 4,
+  "position": 14,
+  "title": "LFU Cache",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 1,
+  "title": "Assign Cookies",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 2,
+  "title": "Lemonade Change",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 3,
+  "title": "Jump Game - I",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 4,
+  "title": "Shortest Job First",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 5,
+  "title": "Job sequencing Problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 6,
+  "title": "N meetings in one room",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 7,
+  "title": "Non-overlapping Intervals",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 8,
+  "title": "Insert Interval",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 9,
+  "title": "Minimum number of platforms required for a railway",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 10,
+  "title": "Valid Paranthesis Checker",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 11,
+  "title": "Candy",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 12,
+  "title": "Introduction",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 13,
+  "title": "Inorder Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 14,
+  "title": "Preorder Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 15,
+  "title": "Postorder Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 16,
+  "title": "Level Order Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 17,
+  "title": "Pre, Post, Inorder in one traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 18,
+  "title": "Maximum Depth in BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 5,
+  "position": 19,
+  "title": "Check if two trees are identical or not",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 6,
+  "position": 1,
+  "title": "Practice (Attributes and Methods)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 3,
+  "day": 7,
+  "position": 1,
+  "title": "Constructors",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 1,
+  "title": "Check for balanced binary tree",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 2,
+  "title": "Diameter of Binary Tree",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 3,
+  "title": "Maximum path sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 4,
+  "title": "Check for symmetrical BTS",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 5,
+  "title": "Zig Zag or Spiral Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 6,
+  "title": "Boundary Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 7,
+  "title": "Vertical Order Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 8,
+  "title": "Top View of BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 9,
+  "title": "Bottom view of BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 1,
+  "position": 10,
+  "title": "Right/Left View of BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 1,
+  "title": "Print root to leaf path in BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 2,
+  "title": "LCA in BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 3,
+  "title": "Maximum Width of BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 4,
+  "title": "Print all nodes at a distance of K in BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 5,
+  "title": "Minimum time taken to burn the BT from a given Node",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 6,
+  "title": "Count total nodes in a complete BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 7,
+  "title": "Requirements needed to construct a unique BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 8,
+  "title": "Construct a BT from Preorder and Inorder",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 9,
+  "title": "Construct a BT from Postorder and Inorder",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 10,
+  "title": "Serialize and De-serialize BT",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 11,
+  "title": "Morris Inorder Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 12,
+  "title": "Morris Preorder Traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 13,
+  "title": "Introduction to BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 14,
+  "title": "Search in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 15,
+  "title": "Floor and Ceil in a BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 16,
+  "title": "Insert a given node in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 17,
+  "title": "Delete a node in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 18,
+  "title": "Kth Smallest and Largest element in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 19,
+  "title": "Check if a tree is a BST or not",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 20,
+  "title": "LCA in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 21,
+  "title": "Construct a BST from a preorder traversal",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 22,
+  "title": "Inorder successor and predecessor in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 23,
+  "title": "BST iterator",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 2,
+  "position": 24,
+  "title": "Two sum in BST",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 1,
+  "title": "Correct BST with two nodes swapped",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 2,
+  "title": "Largest BST in Binary Tree",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 3,
+  "title": "Heaps (Theory Video)",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 4,
+  "title": "Heapify Algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 5,
+  "title": "Build heap from a given Array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 6,
+  "title": "Implement. Min Heap",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 7,
+  "title": "Implement Max Heap",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 8,
+  "title": "Check if an array represents a min heap",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 9,
+  "title": "Convert Min Heap to Max Heap",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 10,
+  "title": "Heap Sort",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 11,
+  "title": "K-th Largest element in an array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 12,
+  "title": "Kth largest element in a stream of running integers",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 3,
+  "position": 13,
+  "title": "Introduction to Graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 1,
+  "title": "Traversal Techniques",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 2,
+  "title": "Connected Components",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 3,
+  "title": "Number of provinces",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 4,
+  "title": "Number of islands",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 5,
+  "title": "Flood fill algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 6,
+  "title": "Number of enclaves",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 7,
+  "title": "Rotten Oranges",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 8,
+  "title": "Distance of nearest cell having one",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 9,
+  "title": "Surrounded Regions",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 10,
+  "title": "Number of distinct islands",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 11,
+  "title": "Detect a cycle in an undirected graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 12,
+  "title": "Bipartite graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 4,
+  "position": 13,
+  "title": "Topological sort or Kahn's algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 1,
+  "title": "Detect a cycle in a directed graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 2,
+  "title": "Find eventual safe states",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 3,
+  "title": "Course Schedule I",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 4,
+  "title": "Course Schedule II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 5,
+  "title": "Alien Dictionary",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 6,
+  "title": "Shortest path in DAG",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 7,
+  "title": "Shortest path in undirected graph with unit weights",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 8,
+  "title": "Word ladder I",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 9,
+  "title": "Word ladder II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 10,
+  "title": "Dijkstra's algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 5,
+  "position": 11,
+  "title": "Print Shortest Path",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 6,
+  "position": 1,
+  "title": "Practice (Constructors)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 6,
+  "position": 2,
+  "title": "Encapsulation",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 4,
+  "day": 7,
+  "position": 1,
+  "title": "Practice (Encapsulation)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 1,
+  "position": 1,
+  "title": "Shortest Distance in a Binary Maze",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 1,
+  "position": 2,
+  "title": "Path with minimum effort",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 1,
+  "position": 3,
+  "title": "Cheapest flight within K stops",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 1,
+  "position": 4,
+  "title": "Minimum multiplications to reach end",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 1,
+  "position": 5,
+  "title": "Number of ways to arrive at destination",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 1,
+  "title": "Bellman ford algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 2,
+  "title": "Floyd warshall algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 3,
+  "title": "Find the city with the smallest number of neighbors",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 4,
+  "title": "MST theory",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 5,
+  "title": "Disjoint Set",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 6,
+  "title": "Find the MST weight",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 7,
+  "title": "Number of operations to make network connected",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 8,
+  "title": "Accounts merge",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 9,
+  "title": "Number of islands II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 10,
+  "title": "Making a large island",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 11,
+  "title": "Most stones removed with same row or column",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 2,
+  "position": 12,
+  "title": "Kosaraju's algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 1,
+  "title": "Bridges in graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 2,
+  "title": "Articulation point in graph",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 3,
+  "title": "Introduction to DP",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 4,
+  "title": "Climbing stairs",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 5,
+  "title": "Frog Jump",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 6,
+  "title": "Frog jump with K distances",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 7,
+  "title": "Maximum sum of non adjacent elements",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 8,
+  "title": "House robber",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 9,
+  "title": "Ninja's training",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 10,
+  "title": "Grid unique paths",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 3,
+  "position": 11,
+  "title": "Unique paths II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 1,
+  "title": "Minimum Falling Path Sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 2,
+  "title": "Triangle",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 3,
+  "title": "Cherry pickup II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 4,
+  "title": "Best time to buy and sell stock",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 5,
+  "title": "Best time to buy and sell stock II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 6,
+  "title": "Best time to buy and sell stock III",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 7,
+  "title": "Best time to buy and sell stock IV",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 8,
+  "title": "Best time to buy and sell stock with transaction fees",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 9,
+  "title": "Subset sum equals to target",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 10,
+  "title": "Partition equal subset sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 4,
+  "position": 11,
+  "title": "Partition a set into two subsets with minimum absolute sum difference",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 1,
+  "title": "Count subsets with sum K",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 2,
+  "title": "Count partitions with given difference",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 3,
+  "title": "O and 1 Knapsack",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 4,
+  "title": "Minimum coins",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 5,
+  "title": "Target sum",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 6,
+  "title": "Coin change II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 7,
+  "title": "Unbounded knapsack",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 8,
+  "title": "Rod cutting problem",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 9,
+  "title": "Longest Increasing Subsequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 10,
+  "title": "Print Longest Increasing Subsequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 11,
+  "title": "Largest Divisible Subset",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 5,
+  "position": 12,
+  "title": "Longest String Chain",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 6,
+  "position": 1,
+  "title": "Access Modifiers",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 5,
+  "day": 7,
+  "position": 1,
+  "title": "Practice Access Modifiers",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 1,
+  "title": "Longest Bitonic Subsequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 2,
+  "title": "Number of Longest Increasing Subsequences",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 3,
+  "title": "Longest common subsequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 4,
+  "title": "Longest common substring",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 5,
+  "title": "Longest palindromic subsequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 1,
+  "position": 6,
+  "title": "Minimum insertions to make string palindrome",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 1,
+  "title": "Minimum insertions or deletions to convert string A to B",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 2,
+  "title": "Shortest common supersequence",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 3,
+  "title": "Distinct subsequences",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 4,
+  "title": "Edit distance",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 5,
+  "title": "Wildcard matching",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 6,
+  "title": "Matrix chain multiplication",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 7,
+  "title": "Burst balloons",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 8,
+  "title": "Palindrome partitioning II",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 2,
+  "position": 9,
+  "title": "Trie Implementation and Operations",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 1,
+  "title": "Trie Implementation and Advanced Operations",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 2,
+  "title": "Longest Word with All Prefixes",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 3,
+  "title": "Number of distinct substrings in a string",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 4,
+  "title": "Maximum XOR of two numbers in an array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 5,
+  "title": "Maximum Xor with an element from an array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 6,
+  "title": "Reverse every word in a string",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 7,
+  "title": "Minimum number of bracket reversals to make an expression balanced",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 8,
+  "title": "Count and say",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 9,
+  "title": "Rabin Karp Algorithm",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 10,
+  "title": "Z function",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 11,
+  "title": "KMP Algorithm or LPS array",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 12,
+  "title": "Shortest Palindrome",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 3,
+  "position": 13,
+  "title": "Longest happy prefix",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 1,
+  "title": "Print all primes till N",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 2,
+  "title": "Prime factorisation of a Number",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 3,
+  "title": "Count primes in range L to R",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 4,
+  "title": "Inheritance",
+  "topic": "DSA",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 5,
+  "title": "Practice (Inheritance)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 6,
+  "title": "Polymorphism",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 7,
+  "title": "Practice (Polymorphism)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 8,
+  "title": "Abstraction",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 9,
+  "title": "Practice (Abstraction)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 4,
+  "position": 10,
+  "title": "Interfaces",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 1,
+  "title": "Practice (Interfaces)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 2,
+  "title": "Static Keyword",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 3,
+  "title": "Practice (Static Keyword)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 4,
+  "title": "Inner classes",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 5,
+  "title": "Practice (Inner classes)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 6,
+  "title": "Association, Aggregation, and Composition",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 7,
+  "title": "Practice (Composition)",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 5,
+  "position": 8,
+  "title": "Object Cloning",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 6,
+  "position": 1,
+  "title": "Practice Object  Cloning",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 6,
+  "day": 7,
+  "position": 1,
+  "title": "Exception Handling",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 1,
+  "position": 1,
+  "title": "Generics",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 1,
+  "position": 2,
+  "title": "File Handling",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 1,
+  "position": 3,
+  "title": "Design Principles",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 1,
+  "position": 4,
+  "title": "Object Lifecycle",
+  "topic": "OOP",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 1,
+  "title": "Why Do We Need an Operating System?",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 2,
+  "title": "Operating System as a Manager",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 3,
+  "title": "What Happens When We Open an App?",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 4,
+  "title": "How Many Apps Run at the Same Time?",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 5,
+  "title": "OS and Protection",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 6,
+  "title": "Process Basics",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 7,
+  "title": "Program vs. Process vs. Thread",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 8,
+  "title": "Process States and Process Control Block",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 9,
+  "title": "Process Creation and Termination",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 10,
+  "title": "Scheduling Queues and Schedulers",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 11,
+  "title": "Context Switching in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 12,
+  "title": "CPU Scheduling Basics",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 13,
+  "title": "First Come First Serve (FCFS) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 14,
+  "title": "Shortest Job First (SJF) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 15,
+  "title": "Shortest Remaining Time First (SRTF) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 16,
+  "title": "Highest Response Ratio Next (HRRN) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 17,
+  "title": "Round Robin (RR) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 18,
+  "title": "Priority Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 2,
+  "position": 19,
+  "title": "Multilevel Queue (MLQ) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 1,
+  "title": "Multilevel Feedback Queue (MLFQ) Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 2,
+  "title": "Kernel in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 3,
+  "title": "Types of Operating Systems",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 4,
+  "title": "Types of Kernel Structures",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 5,
+  "title": "Why OS Schedulers Can't Implement Textbook Scheduling Algorithms",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 6,
+  "title": "Multicore Scheduling",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 7,
+  "title": "Load Balancing in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 8,
+  "title": "CPU Affinity, Cache Locality, and NUMA",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 9,
+  "title": "Threads in Operating System",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 10,
+  "title": "Threads vs Processes",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 11,
+  "title": "What Memory Is Shared Between Threads?",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 12,
+  "title": "User-Level Threads vs Kernel-Level Threads",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 13,
+  "title": "Multithreading Models in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 14,
+  "title": "POSIX Threads",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 15,
+  "title": "Thread Pools",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 16,
+  "title": "Concurrency vs Parallelism",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 17,
+  "title": "Multiprogramming vs Multitasking vs Multiprocessing vs Multithreading",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 18,
+  "title": "Thread Safety, Reentrancy, and Race Condition",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 3,
+  "position": 19,
+  "title": "Race Conditions in Operating Systems",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 1,
+  "title": "Critical Section Problem and Mutual Exclusion",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 2,
+  "title": "Dekker's Algorithm",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 3,
+  "title": "Peterson's Algorithm",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 4,
+  "title": "Bakery Algorithm",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 5,
+  "title": "Hardware Synchronization Principles",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 6,
+  "title": "Test-and-Set",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 7,
+  "title": "Compare-and-Swap",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 8,
+  "title": "Locks, Mutexes, and Types of Locks",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 9,
+  "title": "Semaphores",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 4,
+  "position": 10,
+  "title": "Mutex vs Semaphores",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 1,
+  "title": "Producer-Consumer Problem",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 2,
+  "title": "Condition Variables in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 3,
+  "title": "Monitoring in OS",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 4,
+  "title": "Readers-Writers Problem",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 5,
+  "title": "Sleeping Barber Problem",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 6,
+  "title": "Dining Philosophers Problem",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 7,
+  "title": "Deadlock in Operating Systems",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 8,
+  "title": "Conditions for Deadlock",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 9,
+  "title": "Resource Allocation Graph",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 5,
+  "position": 10,
+  "title": "Wait-for Graph, Safe State, and Unsafe State",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 6,
+  "position": 1,
+  "title": "Deadlock Prevention",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 6,
+  "position": 2,
+  "title": "Deadlock Avoidance",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 7,
+  "position": 1,
+  "title": "Banker's Algorithm",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 7,
+  "day": 7,
+  "position": 2,
+  "title": "Deadlock Detection",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 1,
+  "position": 1,
+  "title": "Deadlock Recovery",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 1,
+  "position": 2,
+  "title": "Starvation vs Deadlock vs Livelock",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 1,
+  "position": 3,
+  "title": "Priority Inversion",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 1,
+  "position": 4,
+  "title": "Debugging Concurrency Bugs",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 1,
+  "title": "Why Networks exists",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 2,
+  "title": "Network Types",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 3,
+  "title": "Internet and Backbone Networks",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 4,
+  "title": "Clients, Servers and Peers",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 5,
+  "title": "How data moves in packets",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 6,
+  "title": "Why do we need layered Architecture",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 7,
+  "title": "OSI Model",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 8,
+  "title": "How Data Travels Up the OSI Model",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 9,
+  "title": "TCP/IP Model",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 10,
+  "title": "OSI vs TCP/IP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 11,
+  "title": "Encapsulation and Decapsulation",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 12,
+  "title": "Physical Layer",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 13,
+  "title": "Transmission Media",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 14,
+  "title": "Twisted Pair Cable",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 15,
+  "title": "Fiber Optic Cable",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 16,
+  "title": "Coaxial Cable",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 17,
+  "title": "Full duplex vs Half duplex",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 18,
+  "title": "Network Device",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 19,
+  "title": "Mac address",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 20,
+  "title": "Error Detection",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 21,
+  "title": "Medium Access and CSMA",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 2,
+  "position": 22,
+  "title": "Address Resolution Protocol",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 1,
+  "title": "Network Access Control",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 2,
+  "title": "Why do we need STP?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 3,
+  "title": "Spanning Tree Protocol (STP)",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 4,
+  "title": "Network Topologies and VLANs Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 5,
+  "title": "Physical Topologies",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 6,
+  "title": "Hybrid Topology",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 7,
+  "title": "Logical Topologies",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 8,
+  "title": "Ethernet Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 9,
+  "title": "Virtual LANS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 10,
+  "title": "Switching vs Routing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 11,
+  "title": "Introduction to Network Layer",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 12,
+  "title": "IPv4 Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 13,
+  "title": "IPv4 Datagram",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 14,
+  "title": "IP Addressing Modes",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 15,
+  "title": "Private vs Public IP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 16,
+  "title": "Classful Addressing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 17,
+  "title": "Subnetting",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 18,
+  "title": "Common Interview Questions",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 3,
+  "position": 19,
+  "title": "CIDR-Classless Addressing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 1,
+  "title": "IPv6 Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 2,
+  "title": "IPv6 Datagram",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 3,
+  "title": "IPv6 over IPv4",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 4,
+  "title": "Router vs Forwarding",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 5,
+  "title": "Routing Tables Basics",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 6,
+  "title": "Static Routing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 7,
+  "title": "Dynamic Routing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 8,
+  "title": "Distance Vector Routing and RIP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 9,
+  "title": "Routing Loop and Prevention",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 10,
+  "title": "Link State Routing and OSPF",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 11,
+  "title": "Hybrid Routing and EIGRP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 12,
+  "title": "Border Gateway Protocol",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 13,
+  "title": "Transport Layer Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 14,
+  "title": "Port and Sockets",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 15,
+  "title": "UDP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 16,
+  "title": "TCP-I: Connection Setup and Numbering",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 17,
+  "title": "TCP-II: Reliability, Flow Control and Sliding Window",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 18,
+  "title": "TCP-III: Congestion Control and Connection Closing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 19,
+  "title": "When to choose TCP/UDP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 20,
+  "title": "Application Layer Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 21,
+  "title": "HTTP-Request Response Model",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 4,
+  "position": 22,
+  "title": "HTTP methods and status codes",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 1,
+  "title": "HTTP Versions",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 2,
+  "title": "HTTP/3 and QUIC",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 3,
+  "title": "HTTPS and TLS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 4,
+  "title": "Cookies, Sessions, and tokens",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 5,
+  "title": "Rest API's",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 6,
+  "title": "WebSockets",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 7,
+  "title": "File Transfer Protocol",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 8,
+  "title": "Email Protocols",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 9,
+  "title": "NAT and Why do we need it?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 10,
+  "title": "NAT Packet Flow",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 11,
+  "title": "Types of NAT",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 12,
+  "title": "SNAT, DNAT and Port Forwarding",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 13,
+  "title": "NAT Limitations",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 14,
+  "title": "DNS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 15,
+  "title": "DNS Record Types",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 16,
+  "title": "DNS Security",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 17,
+  "title": "DNSSEC",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 18,
+  "title": "Dynamic Host Configuration Protocol (DHCP)",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 19,
+  "title": "What is Switching and Why?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 20,
+  "title": "Fundamental Switching Techniques",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 21,
+  "title": "Circuit Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 22,
+  "title": "Packet Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 23,
+  "title": "Datagram Packet Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 24,
+  "title": "Virtual Circuit Packet Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 25,
+  "title": "MPLS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 26,
+  "title": "Circuit Switching vs. Virtual Packet Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 27,
+  "title": "Message Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 28,
+  "title": "Why Packet Switching became backbone of Internet",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 29,
+  "title": "Comparisons between all 3",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 5,
+  "position": 30,
+  "title": "FAQs - Switching",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 6,
+  "position": 1,
+  "title": "Why Network Security?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 6,
+  "position": 2,
+  "title": "CIA Triad",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 6,
+  "position": 3,
+  "title": "AAA Framework",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 6,
+  "position": 4,
+  "title": "Common Network Security Threats",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 1,
+  "title": "Firewalls and Types",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 2,
+  "title": "Firewall Type Comparison - L3, L4, and L7",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 3,
+  "title": "CIDPS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 4,
+  "title": "VPNS",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 5,
+  "title": "Zero Trust Architecture",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 6,
+  "title": "Introduction of Cryptography",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 7,
+  "title": "Security Goals of Cryptography",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 8,
+  "day": 7,
+  "position": 8,
+  "title": "Basic Cryptography Terms",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 1,
+  "title": "Symmetric Encryption",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 2,
+  "title": "Asymmetric Cryptography",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 3,
+  "title": "Diffie Hellman Key Exchange Method",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 4,
+  "title": "Hybrid Encryption",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 5,
+  "title": "Hash Functions",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 6,
+  "title": "MAC and HMAC",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 7,
+  "title": "Digital Signatures",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 8,
+  "title": "Certificate Authority and Chain of Trust",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 9,
+  "title": "Public Key Infrastructure",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 10,
+  "title": "Certificate Pinning",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 11,
+  "title": "TLS and SSL",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 12,
+  "title": "TLS Handshake and Forward Secrecy",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 13,
+  "title": "Wireless Networking Introduction",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 1,
+  "position": 14,
+  "title": "Basics of Wireless Networking",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 1,
+  "title": "Wi-Fi Joining Flow",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 2,
+  "title": "WPA and WPA/WPA-2/WPA-3 Security Handshake",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 3,
+  "title": "IEEE 802.11 and Wi-Fi Generations",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 4,
+  "title": "Why Wi-Fi speed drops in Real Life",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 5,
+  "title": "How Wi-Fi avoids Collisions",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 6,
+  "title": "Wi-Fi Frame Types",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 7,
+  "title": "Wi-Fi Security",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 8,
+  "title": "Packet Flow: Opening a website over Wi-Fi",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 9,
+  "title": "Introduction to Network Performance",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 10,
+  "title": "Metrics Deep Dive",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 11,
+  "title": "Data Transfer and Bottlenecks, BDP",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 12,
+  "title": "Latency Sources, Delay, and TTFB",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 13,
+  "title": "Congestion, Bufferbloat, and Congestion Collapse Loop",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 14,
+  "title": "QoS, Traffic Shaping, and Policing",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 15,
+  "title": "Rate Limiting",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 16,
+  "title": "Fixed Window Counter - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 17,
+  "title": "Sliding Window Log - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 18,
+  "title": "Sliding Window Counter - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 19,
+  "title": "Token Bucket - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 20,
+  "title": "Leaky Bucket - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 21,
+  "title": "Concurrency Limiter - Rate Limiting Algo",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 22,
+  "title": "Load Balancing Fundamentals",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 23,
+  "title": "L4 vs L7 Load Balancers",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 24,
+  "title": "Load Balancing Algorithms",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 25,
+  "title": "CDN Caching and Lifestyle",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 2,
+  "position": 26,
+  "title": "What happens when you type google.com",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 1,
+  "title": "What happens when DNS fails?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 2,
+  "title": "What happens when you connect to public Wi-Fi?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 3,
+  "title": "How does a CDN serve an image/video?",
+  "topic": "CN",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 4,
+  "title": "Introduction to Low Level Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 5,
+  "title": "Software Design Principles",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 6,
+  "title": "Single Responsibility Principle (SRP)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 7,
+  "title": "Open Closed Principle (OCP)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 8,
+  "title": "Liskov Substitution Principle (LSP)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 9,
+  "title": "Interface Segregation Principle (ISP)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 10,
+  "title": "Dependency Inversion Principle (DIP)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 11,
+  "title": "Unified Modeling Language (UML)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 12,
+  "title": "Class UML diagrams",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 13,
+  "title": "Introduction to Design Patterns",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 3,
+  "position": 14,
+  "title": "Singleton Design Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 1,
+  "title": "Factory Method",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 2,
+  "title": "Builder Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 3,
+  "title": "Abstract Factory",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 4,
+  "title": "Prototype Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 5,
+  "title": "Adapter Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 6,
+  "title": "Decorator Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 7,
+  "title": "Facade Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 8,
+  "title": "Composite Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 9,
+  "title": "Proxy Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 10,
+  "title": "Bridge Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 11,
+  "title": "Flyweight Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 12,
+  "title": "Iterator Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 13,
+  "title": "Observer Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 4,
+  "position": 14,
+  "title": "Strategy Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 1,
+  "title": "Command Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 2,
+  "title": "Template Method",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 3,
+  "title": "State Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 4,
+  "title": "Chain of Responsibility",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 5,
+  "title": "Visitor Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 6,
+  "title": "Mediator Pattem",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 7,
+  "title": "Memento Pattern",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 8,
+  "title": "Multithreading and Concurrency",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 9,
+  "title": "Creating and Managing Threads",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 10,
+  "title": "Thread Pools and Executors",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 5,
+  "position": 11,
+  "title": "Thread Safety and Synchronization",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 6,
+  "position": 1,
+  "title": "Locks and Synchronization Mechanism",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 6,
+  "position": 2,
+  "title": "Deadlock and Prevention Techniques",
+  "topic": "OS",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 7,
+  "position": 1,
+  "title": "Producer Consumer Problem",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 7,
+  "position": 2,
+  "title": "Dependency Injection",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 9,
+  "day": 7,
+  "position": 3,
+  "title": "Exception Handling (LLD)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 1,
+  "position": 1,
+  "title": "Building Resilient Systems",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 1,
+  "position": 2,
+  "title": "All About API's",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 1,
+  "position": 3,
+  "title": "Database Design and Integration",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 1,
+  "title": "How to approach a LLD Interview",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 2,
+  "title": "Parking Lot (Design)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 3,
+  "title": "Parking Lot (Code)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 4,
+  "title": "Logging Framework (Design)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 5,
+  "title": "Logging Framework (Code)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 6,
+  "title": "Traffic Signal System (Design)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 7,
+  "title": "Traffic Signal System (Code)",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 2,
+  "position": 8,
+  "title": "Vending Machine Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 1,
+  "title": "Vending Machine Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 2,
+  "title": "Task Management System Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 3,
+  "title": "Task Management System Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 4,
+  "title": "PubSub System Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 5,
+  "title": "PubSub System Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 6,
+  "title": "ATM Machine Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 7,
+  "title": "ATM Machine Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 3,
+  "position": 8,
+  "title": "Hotel Management System Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 1,
+  "title": "Introduction to SQL",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 2,
+  "title": "Why SQL Exists",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 3,
+  "title": "How Databases Work",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 4,
+  "title": "Database Systems",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 5,
+  "title": "Installation and Tools",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 6,
+  "title": "File Systems vs Database Management Systems",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 7,
+  "title": "Data Abstraction, Schemas, Instances, and Data Independence",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 8,
+  "title": "DBMS Components and End-to-End Query Flow",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 9,
+  "title": "Database Users, Roles, and Deployment Architectures",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 10,
+  "title": "Data Models and Database Families",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 11,
+  "title": "Database & Table Basics",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 12,
+  "title": "SQL Basics and Commands",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 13,
+  "title": "Working with Databases in SQL",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 14,
+  "title": "SQL Data Types",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 4,
+  "position": 15,
+  "title": "Creating and Managing Tables in SQL",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 1,
+  "title": "Primary Key",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 2,
+  "title": "Foreign Key",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 3,
+  "title": "Constraints in SQL",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 4,
+  "title": "NULL vs 0 vs Empty String",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 5,
+  "title": "DDL vs DML",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 6,
+  "title": "Query Lifecycle",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 7,
+  "title": "Indexing in SQL",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 8,
+  "title": "Entities, Entity Sets, and Attributes",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 9,
+  "title": "Relationships and Structural Constraints",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 10,
+  "title": "Weak Entities and Enhanced ER Modeling",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 11,
+  "title": "ER/EER-to-Relational Mapping",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 12,
+  "title": "Database Design Fundamentals",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 13,
+  "title": "Importance, Raw Data and Pain",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 14,
+  "title": "Core Concepts (Overview)",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 5,
+  "position": 15,
+  "title": "Mental Model (First Principle)",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 6,
+  "position": 1,
+  "title": "Schema Design",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 6,
+  "position": 2,
+  "title": "Entity and Attributes",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 6,
+  "position": 3,
+  "title": "Relationships, Cardinality and Optionality",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 6,
+  "position": 4,
+  "title": "Everything About Keys",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 7,
+  "position": 1,
+  "title": "Normalisation and their Forms",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 7,
+  "position": 2,
+  "title": "Formal Relational Model and Integrity Constraints",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 10,
+  "day": 7,
+  "position": 3,
+  "title": "Fundamental Relational Algebra",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 1,
+  "position": 1,
+  "title": "Hotel Management System Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 1,
+  "position": 2,
+  "title": "Elevator System Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 1,
+  "position": 3,
+  "title": "Elevator System Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 1,
+  "position": 4,
+  "title": "Digital Wallet Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 1,
+  "title": "Types of Locking Mechanism",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 2,
+  "title": "Digital Wallet Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 3,
+  "title": "Ride Booking App Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 4,
+  "title": "Ride Booking App Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 5,
+  "title": "Music Streaming Platform Design",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 6,
+  "title": "Streaming Protocols",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 7,
+  "title": "Music Streaming Platform Code",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 8,
+  "title": "Joins and Extended Relational Algebra",
+  "topic": "LLD",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 9,
+  "title": "Tuple and Domain Relational Calculus",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 10,
+  "title": "Views and Materialized Views",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 11,
+  "title": "Triggers, Stored Routines, and Database-Side Logic",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 12,
+  "title": "Redundancy and Update Anomalies",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 13,
+  "title": "Functional Dependencies and Keys",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 2,
+  "position": 14,
+  "title": "Armstrong's Axioms, Attribute Closure, and Minimal Cover",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 1,
+  "title": "First, Second, Third, and Boyce-Codd Normal Forms",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 2,
+  "title": "Decomposition Quality and Normalization Algorithms",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 3,
+  "title": "Multivalued Dependencies, 4NF, Join Dependencies, and 5NF",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 4,
+  "title": "Query Fundamentals",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 5,
+  "title": "SELECT AND FROM",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 6,
+  "title": "WHERE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 7,
+  "title": "Comparison Operators",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 8,
+  "title": "Logical Operators",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 9,
+  "title": "Arithmetic Operators",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 10,
+  "title": "ORDER BY and LIMIT",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 11,
+  "title": "DISTINCT and AS (Aliases)",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 12,
+  "title": "Big Countries",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 13,
+  "title": "Profitable Customers in 2021",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 14,
+  "title": "Odd Non-Boring Movies",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 15,
+  "title": "Filtering Essentials",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 16,
+  "title": "IS NULL vs. IS NOT NULL, IN, and NOT IN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 17,
+  "title": "BETWEEN and NOT BETWEEN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 18,
+  "title": "LIKE and NOT LIKE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 19,
+  "title": "Filter Records Excluding a Specific Pattern",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 20,
+  "title": "Find Records Excluding a Given Set of Values",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 21,
+  "title": "Find Salaries Outside the Expected Range",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 22,
+  "title": "Non-Referred Customers",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 23,
+  "title": "Data Summarization",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 24,
+  "title": "Fundamentals of GROUP BY",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 3,
+  "position": 25,
+  "title": "Basic Aggregate Functions (MIN, MAX, SUM, AVG)",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 1,
+  "title": "COUNT Functions",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 2,
+  "title": "HAVING Clause (Basics, HAVING with COUNT)",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 3,
+  "title": "First Login Analysis",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 4,
+  "title": "Employee Work Time Summary",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 5,
+  "title": "Unique Subjects per Teacher",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 6,
+  "title": "User Follower Count",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 7,
+  "title": "CRM Automotive Sales Analysis",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 8,
+  "title": "Highest Order Placing Customer",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 9,
+  "title": "Frequent Actor-Director Duos",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 10,
+  "title": "Large Classes",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 11,
+  "title": "Email Duplicates",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 12,
+  "title": "Merging Query Results",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 13,
+  "title": "UNION",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 14,
+  "title": "UNION ALL",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 15,
+  "title": "Difference Between UNION and UNION ALL",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 16,
+  "title": "Intersection",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 17,
+  "title": "Combine Active and Archived Users",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 18,
+  "title": "Merge Recent Orders from Multiple Sources",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 19,
+  "title": "Combine Sales Records Without Deduplication",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 4,
+  "position": 20,
+  "title": "Reshape Products Data",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 1,
+  "title": "Joins Deep Dive",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 2,
+  "title": "RIGHT JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 3,
+  "title": "ON vs. WHERE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 4,
+  "title": "LEFT JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 5,
+  "title": "INNER JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 6,
+  "title": "FULL OUTER JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 7,
+  "title": "CROSS JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 8,
+  "title": "IMPLICIT JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 9,
+  "title": "SELF JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 10,
+  "title": "NATURAL JOIN",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 11,
+  "title": "Employees and Their Departments",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 12,
+  "title": "Customer Orders Overview",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 13,
+  "title": "Employees With Confirmed Salary Records",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 14,
+  "title": "Generate All Possible User-Category Pairs",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 15,
+  "title": "Employees With or Without Salary Records",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 16,
+  "title": "Match Employees With Their Salaries",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 17,
+  "title": "Employees Earning More Than Their Manager",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 18,
+  "title": "Students Enrolled in Courses",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 5,
+  "position": 19,
+  "title": "Sales Analysis",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 6,
+  "position": 1,
+  "title": "Minimum Distance Between Points",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 6,
+  "position": 2,
+  "title": "Suspended Accounts",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 6,
+  "position": 3,
+  "title": "Find Team Size for Each Employee",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 6,
+  "position": 4,
+  "title": "Average Experience by Project",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 7,
+  "position": 1,
+  "title": "Warehouse Stock Manager",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 7,
+  "position": 2,
+  "title": "Table Join Operation",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 7,
+  "position": 3,
+  "title": "Inactive Customers",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 11,
+  "day": 7,
+  "position": 4,
+  "title": "Students Enrolled in Non-Existent Departments",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 1,
+  "title": "Low Bonus Employees",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 2,
+  "title": "Available Seat Streaks",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 3,
+  "title": "Visitors Without Transactions",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 4,
+  "title": "A & B Buyers Without C",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 5,
+  "title": "Product Selling Price Report",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 6,
+  "title": "Updated Bank Balances",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 7,
+  "title": "Most Frequent Travellers",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 1,
+  "position": 8,
+  "title": "Suggested Pages",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 1,
+  "title": "Everything about Subqueries",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 2,
+  "title": "Introduction to Subqueries (IN)",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 3,
+  "title": "EXISTS and NOT EXISTS",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 4,
+  "title": "Correlated Subqueries",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 5,
+  "title": "Contest Participation Rate",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 6,
+  "title": "High-Report Managers",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 7,
+  "title": "All-Product Buyers",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 8,
+  "title": "Highest Non-Repeating Number",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 9,
+  "title": "Find the First Device Logged in by Each Player",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 10,
+  "title": "Salespersons Without RED Orders",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 11,
+  "title": "Employees with the Highest Salary in Each Department",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 12,
+  "title": "Find the Most Recent Order for Each Product",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 13,
+  "title": "Find Transactions with Maximum Amount Per Day",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 14,
+  "title": "Incomplete Employee Records",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 2,
+  "position": 15,
+  "title": "Find Quiet Students in All Exams",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 1,
+  "title": "Top Grade per Student",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 2,
+  "title": "Swap Consecutive Seats",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 3,
+  "title": "Safe Investment Countries",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 4,
+  "title": "Tennis Grand Slam Winners",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 5,
+  "title": "Football Team Scores",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 6,
+  "title": "Order Count per Customer",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 7,
+  "title": "Boolean Expression Evaluator",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 8,
+  "title": "Immediate First Orders Percentage",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 9,
+  "title": "Find All Employees Reporting to the Head of the Company",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 10,
+  "title": "Orphan Employees",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 11,
+  "title": "Editing Data and Tables",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 12,
+  "title": "INSERT",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 13,
+  "title": "UPSERT",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 14,
+  "title": "UPDATE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 15,
+  "title": "DELETE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 16,
+  "title": "ALTER",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 17,
+  "title": "TRUNCATE",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 18,
+  "title": "DELETE vs. TRUNCATE vs. DROP",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 3,
+  "position": 19,
+  "title": "System Settings",
+  "topic": "SQL",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 1,
+  "title": "B-Trees and B+ Trees",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 2,
+  "title": "Static and Dynamic Hashing",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 3,
+  "title": "Storage, Keys and Query Performance",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 4,
+  "title": "Where Rows Actually Live",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 5,
+  "title": "How a B+ Tree Is Built with Data",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 6,
+  "title": "Why the Wrong Primary Key Can Quietly Destroy You",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 7,
+  "title": "Index Strategy at Scale",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 8,
+  "title": "From SQL to an Executable Plan",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 4,
+  "position": 9,
+  "title": "Algorithms for Selection, Projection, Sorting, and Aggregation",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 1,
+  "title": "Join Processing Algorithms",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 2,
+  "title": "Cost-Based Query Optimization",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 3,
+  "title": "Performance & Debugging",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 4,
+  "title": "Raw Data Setup and Stored Procedures",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 5,
+  "title": "Debugging Queries with EXPLAIN",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 6,
+  "title": "Query Performance",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 7,
+  "title": "Debugging Correctness",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 8,
+  "title": "Permissions and Transactions Part-1",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 9,
+  "title": "Privileges and Roles",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 10,
+  "title": "GRANTS",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 11,
+  "title": "GRANT ALL and WITH GRANT OPTION",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 12,
+  "title": "ALTER USER",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 5,
+  "position": 13,
+  "title": "REVOKE",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 6,
+  "position": 1,
+  "title": "Permissions and Transactions Part-2",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 7,
+  "position": 1,
+  "title": "Connection, Connection Pool and Commit",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 7,
+  "position": 2,
+  "title": "Rollback",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 12,
+  "day": 7,
+  "position": 3,
+  "title": "Savepoint",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 1,
+  "title": "Internal Working of Transactions, Timeout and Deadlock",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 2,
+  "title": "Transaction Concepts, ACID, and States",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 3,
+  "title": "Schedules and Concurrency Anomalies",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 4,
+  "title": "Conflict and View Serializability",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 5,
+  "title": "Recoverable, Cascadeless, and Strict Schedules",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 1,
+  "position": 6,
+  "title": "Lock-Based Protocols and Two-Phase Locking",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 1,
+  "title": "Deadlock Handling",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 2,
+  "title": "Timestamp Ordering, Optimistic Control, and MVCC",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 3,
+  "title": "SQL Isolation Levels",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 4,
+  "title": "Failures, Storage, and Recovery Goals",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 5,
+  "title": "Log-Based Recovery and Write-Ahead Logging",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 6,
+  "title": "Checkpoints and ARIES Intuition",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 7,
+  "title": "Shadow Paging, Backup, and Point-in-Time Recovery",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 8,
+  "title": "Declarative Integrity Beyond Keys",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 9,
+  "title": "Authorization, Views, and Auditing",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 10,
+  "title": "Database Security Threats and Protection",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 11,
+  "title": "Metadata, Statistics, Maintenance, and Observability",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 12,
+  "title": "Distributed Database Foundations",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 13,
+  "title": "Partitioning, Sharding, and Distributed IDs",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 14,
+  "title": "Replication, Consistency, and CAP/PACELC",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 15,
+  "title": "Distributed Transactions and Coordination",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 16,
+  "title": "NoSQL Data Models and SQL-vs-NoSQL Decisions",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 17,
+  "title": "OLTP, OLAP, Warehousing, and Columnar Storage",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 18,
+  "title": "Schema-Design Capstone",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 19,
+  "title": "Storage and Query-Plan Lab",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 2,
+  "position": 20,
+  "title": "Concurrency and Recovery Lab",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 3,
+  "position": 1,
+  "title": "GATE and Semester Problem Track",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 3,
+  "position": 2,
+  "title": "Interview Depth by Candidate Level",
+  "topic": "DBMS",
+  "completed": false
+ },
+ {
+  "sprint": 13,
+  "day": 3,
+  "position": 3,
+  "title": "Final Coverage and Source Alignment",
+  "topic": "DBMS",
+  "completed": false
+ }
+]
